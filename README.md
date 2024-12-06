@@ -1,4 +1,4 @@
-# Process Steps
+# Cutting Board Visualizer
 
 This project provides a Node.js application for processing woodworking data with support for vertical and horizontal flips.
 
